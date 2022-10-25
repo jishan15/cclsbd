@@ -24,7 +24,10 @@ footer .social i:hover,
 .exo_tab .exo_nav .nav-item > div h5,
 .title-with-icon-box > i,
 #mainmenu li a.active
-{color:#eabb49;}
+{color:#eabb49;
+	;}
+
+/* color:#eabb49; */
 
 
 .divider-deco span,
@@ -72,18 +75,22 @@ ul.progress li.beforeactive:before,
 .form-border.s1 input:focus,
 .form-border.s1 textarea:focus,
 .input-with-button input:focus
-{border-color:#eabb49}
+{border-color:#eabb49;
+}
 
 .exo_tab.tab_map .exo_nav .nav-item > div.active , 
 .exo_tab.tab_map .exo_nav .nav-item > div:hover
-{border-bottom-color:#eabb49}
+{border-bottom-color:#eabb49;
+}
 
 ul.progress li.active:after {
-border-color: transparent transparent transparent #eabb49;
+border-color: transparent transparent transparent #eabb49
+;
 }
 
 .arrow-down{
-	border-top: 5px solid #eabb49;
+	border-top: 5px solid #eabb49
+	;
 }
 
 .btn-arrow span.line{

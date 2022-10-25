@@ -62,7 +62,7 @@ header {
 	margin: 0 auto;
 	width: 100%;
 	z-index: 100;
-	height: 70px;
+	height: 80px;
 }
 header.transparent {
 	background: none;
@@ -2452,6 +2452,10 @@ css attributes
 	font-size: 50px;
 	position: absolute;
 }
+.info-box1 i{
+	font-size: 60px;
+	color: #66b3ff;
+}
 .info-box .info-box_text {
 	padding-left: 60px;
 }
@@ -3253,7 +3257,7 @@ footer a:hover {
 section and parallax background settings
 ------------------------------ */
 section {
-	padding: 60px 0 60px 0;
+	padding: 60px 0 30px 0;
 	background: #fff;
 	overflow: hidden;
 }
