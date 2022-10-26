@@ -2180,6 +2180,27 @@ footer .widget {
 	border: solid 1px #ddd;
 }
 
+
+
+
+/*--------------------------------------------------------------
+# Clients Section
+--------------------------------------------------------------*/
+/* .clients {
+	padding: 0 0 60px 0;
+  }
+  
+  .clients .swiper-slide img {
+	opacity: 0.5;
+	transition: 0.3s;
+	filter: grayscale(100);
+  }
+  
+  .clients .swiper-slide img:hover {
+	filter: none;
+	opacity: 1;
+  } */
+
 /*------------------------------ 
 css attributes
 ------------------------------ */
@@ -3770,6 +3791,7 @@ map
 .simple-form .r-col {
 	position: absolute;
 	right: 15px;
+	float:right;
 }
 .simple-form input {
 	color: #333!important;
